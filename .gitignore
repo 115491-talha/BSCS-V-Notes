@@ -19,3 +19,35 @@ Desktop.ini
 
 # Others
 .vscode/
+
+# ==========================================
+# IntelliJ IDEA (JAVA)
+# ==========================================
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+
+# Build directories
+target/
+build/
+bin/
+classes/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
