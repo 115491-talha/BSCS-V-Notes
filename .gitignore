@@ -28,6 +28,14 @@ Desktop.ini
 out/
 *.ipr
 *.iws
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
 
 # Build directories
 target/
