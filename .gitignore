@@ -1,0 +1,21 @@
+# Windows Clutter
+Thumbs.db
+Desktop.ini
+*.tmp
+*.temp
+*.log
+
+# Draw.io
+*.drawio.bkp
+*.drawio~*
+*.bak
+*.old
+*.lock
+
+# Zip files
+*.zip
+*.rar
+*.sfx
+
+# Others
+.vscode/
