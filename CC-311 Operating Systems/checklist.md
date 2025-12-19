@@ -3,17 +3,17 @@
 
 ## 1. Operating System Fundamentals
 
-* ☐ Definition of an Operating System
-* ☐ Goals of an Operating System
+* ✔ Definition of an Operating System
+* ✔ Goals of an Operating System
 * ☐ OS as a Resource Manager
 * ☐ OS as a Control Program
-* ☐ Types of Operating Systems
+* ✔ Types of Operating Systems
 
-  * ☐ Batch OS
-  * ☐ Multiprogramming OS
-  * ☐ Time-Sharing OS
-  * ☐ Real-Time OS
-  * ☐ Distributed OS
+  * ✔ Batch OS
+  * ✔ Multiprogramming OS
+  * ✔ Time-Sharing OS
+  * ✔ Real-Time OS
+  * ✔ Distributed OS
 
 ---
 
