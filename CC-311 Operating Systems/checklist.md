@@ -5,8 +5,8 @@
 
 * ✔ Definition of an Operating System
 * ✔ Goals of an Operating System
-* ☐ OS as a Resource Manager
-* ☐ OS as a Control Program
+* ✔ OS as a Resource Manager
+* ✔ OS as a Control Program
 * ✔ Types of Operating Systems
 
   * ✔ Batch OS
