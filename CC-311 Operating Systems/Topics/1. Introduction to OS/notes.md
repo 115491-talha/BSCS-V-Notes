@@ -17,6 +17,10 @@ An operating system is necessary to manage hardware resources efficiently, contr
 
 ---
 
+![Introduction](/CC-311%20Operating%20Systems/Topics/1.%20Introduction%20to%20OS/pics/introduction.png)
+
+---
+
 ## 2. What is an Operating System (OS)
 
 ### Short Question
@@ -41,6 +45,10 @@ The OS ensures:
 * System stability and security
 
 Without an operating system, application programs would not be able to directly access hardware resources in a controlled and safe manner.
+
+---
+
+![Working](/CC-311%20Operating%20Systems/Topics/1.%20Introduction%20to%20OS/pics/working.png)
 
 ---
 
@@ -160,5 +168,9 @@ The goals of an operating system define its design and behavior:
   The OS should be flexible enough to support new hardware, features, and system improvements without major redesign.
 
 These goals ensure that the operating system remains reliable, scalable, and adaptable.
+
+---
+
+![Types-Funcs-Goals](/CC-311%20Operating%20Systems/Topics/1.%20Introduction%20to%20OS/pics/types-funcs-goals.png)
 
 ---
