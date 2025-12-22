@@ -5,8 +5,8 @@
 
 ## 1. Introduction to Database Systems
 
-* ☐ Definition of Database
-* ☐ Definition of DBMS
+* ✔ Definition of Database
+* ✔ Definition of DBMS
 * ☐ Purpose of Database Systems
 * ☐ Applications of Database Systems
 * ☐ Characteristics of Database Approach
@@ -15,7 +15,7 @@
 
 ## 2. Database Approach vs File-Based System
 
-* ☐ File-Based System Overview
+* ✔ File-Based System Overview
 * ☐ Problems with File-Based Systems
 
   * ☐ Data Redundancy
