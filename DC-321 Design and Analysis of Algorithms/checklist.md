@@ -5,41 +5,41 @@
 
 ## 1. Introduction to Algorithms
 
-* ☐ Definition of an Algorithm
-* ☐ Characteristics of Algorithms
-* ☐ Role of Algorithms in Computing
-* ☐ Importance of Algorithm Design
-* ☐ Algorithm vs Program
+* ✔ Definition of an Algorithm
+* ✔ Characteristics of Algorithms
+* ✔ Role of Algorithms in Computing
+* ✔ Importance of Algorithm Design
+* ✔ Algorithm vs Program
 
 ---
 
 ## 2. Analysis of Algorithms
 
-* ☐ Need for Algorithm Analysis
-* ☐ Time Complexity
-* ☐ Space Complexity
-* ☐ Best Case Analysis
-* ☐ Average Case Analysis
-* ☐ Worst Case Analysis
+* ✔ Need for Algorithm Analysis
+* ✔ Time Complexity
+* ✔ Space Complexity
+* ✔ Best Case Analysis
+* ✔ Average Case Analysis
+* ✔ Worst Case Analysis
 
 ---
 
 ## 3. Nature of Input and Size of Input
 
-* ☐ Definition of Input Size
-* ☐ Effect of Input Size on Performance
-* ☐ Growth of Functions
+* ✔ Definition of Input Size
+* ✔ Effect of Input Size on Performance
+* ✔ Growth of Functions
 
 ---
 
 ## 4. Asymptotic Notations
 
-* ☐ Big-O Notation
-* ☐ Big-Ω (Omega) Notation
-* ☐ Big-Θ (Theta) Notation
-* ☐ little-o Notation
-* ☐ little-ω Notation
-* ☐ Comparison of Growth Rates
+* ✔ Big-O Notation
+* ✔ Big-Ω (Omega) Notation
+* ✔ Big-Θ (Theta) Notation
+* ✔ little-o Notation
+* ✔ little-ω Notation
+* ✔ Comparison of Growth Rates
 
 ---
 
