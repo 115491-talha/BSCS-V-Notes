@@ -7,12 +7,12 @@
 
 ## 1. Java Programming Fundamentals
 
-* ☐ Java development environment setup (JDK, IDE)
-* ☐ Basic Java program structure
-* ☐ Variables and constants
-* ☐ Data types
-* ☐ Type casting
-* ☐ Input / output in Java
+* ✔ Java development environment setup (JDK, IDE)
+* ✔ Basic Java program structure
+* ✔ Variables and constants
+* ✔ Data types
+* ✔ Type casting
+* ✔ Input / output in Java
 
 ---
 

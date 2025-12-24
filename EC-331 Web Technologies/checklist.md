@@ -5,19 +5,19 @@
 
 ## 1. Introduction to Web Applications
 
-* ☐ Definition of Web Application
-* ☐ Web Application vs Desktop Application
-* ☐ Client–Server Architecture
-* ☐ Evolution of Web Applications
+* ✔ Definition of Web Application
+* ✔ Web Application vs Desktop Application
+* ✔ Client–Server Architecture
+* ✔ Evolution of Web Applications
 
 ---
 
 ## 2. TCP/IP Application Services
 
-* ☐ Overview of TCP/IP Model
-* ☐ Application Layer Services
-* ☐ HTTP Protocol Basics
-* ☐ Request–Response Model
+* ✔ Overview of TCP/IP Model
+* ✔ Application Layer Services
+* ✔ HTTP Protocol Basics
+* ✔ Request–Response Model
 
 ---
 
