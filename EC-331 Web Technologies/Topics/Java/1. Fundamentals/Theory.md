@@ -277,7 +277,7 @@ public class InputDemo {
 
 ---
 
-## Practice Questions (Coding-Based)
+## Practice Questions | [Solution](https://github.com/115491-talha/BSCS-V-Notes/tree/main/EC-331%20Web%20Technologies/Topics/Java/1.%20Fundamentals/Code/Solution/src)
 
 ### Q1
 
