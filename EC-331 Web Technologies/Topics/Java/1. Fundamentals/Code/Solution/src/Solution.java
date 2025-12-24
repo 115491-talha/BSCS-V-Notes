@@ -119,7 +119,7 @@ public class Solution {
         // Variables
         int a = 5;
         int b = 2;
-        double result = a / b; // ❌
+        double result = a / b; // ❎
         System.out.println("Result (Old): " + result);
 
         /*
@@ -127,7 +127,7 @@ public class Solution {
         The solution is given below 👇
         */
         // Output
-        result = (double) a / b;
+        result = (double) a / b; // ✅
         System.out.println("Result (Fix): " + result);
     }
 }

@@ -317,7 +317,7 @@ Write a Java program that:
 
 ### Q5 (Concept + Code)
 
-Explain why this program prints `0` and fix it:
+Explain why this program prints wrong result and fix it:
 
 ```java
 int a = 5;
