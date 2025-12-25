@@ -5,11 +5,11 @@
 
 ## 1. Introduction to Compilers
 
-* ☐ Definition of Compiler
-* ☐ Definition of Interpreter
-* ☐ Compiler vs Interpreter
-* ☐ Phases of a Compiler
-* ☐ Language Processing System
+* ✔ Definition of Compiler
+* ✔ Definition of Interpreter
+* ✔ Compiler vs Interpreter
+* ✔ Phases of a Compiler
+* ✔ Language Processing System
 
 ---
 
